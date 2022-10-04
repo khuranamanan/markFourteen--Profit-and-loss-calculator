@@ -15,7 +15,7 @@ function calculateProfitOrLoss(initial, quantity, current) {
             var loss = (initial - current) * quantity;
             var lossPercentage = (loss / (initial * quantity)) * 100;
 
-            showMessage(`You have incurred a loss of ${loss} and the loss percentage is ${lossPercentage}%.`);
+            showMessage(`You have incurred a loss of ${loss} and the loss percentage is ${lossPercentage.toFixed(2)}%.`);
 
             outputBox.style.border = "solid 5px var(--error-primary)";
             outputBox.style.backgroundColor = "var(--error-secondary)";
@@ -27,7 +27,7 @@ function calculateProfitOrLoss(initial, quantity, current) {
             var profit = (current - initial) * quantity;
             var profitPercentage = (profit / (initial * quantity)) * 100;
 
-            showMessage(`You have incurred a profit of ${profit} and the profit percentage is ${profitPercentage}%.`);
+            showMessage(`You have incurred a profit of ${profit} and the profit percentage is ${profitPercentage.toFixed(2)}%.`);
 
             outputBox.style.border = "solid 5px var(--success-primary)";
             outputBox.style.backgroundColor = "var(--success-secondary)";
