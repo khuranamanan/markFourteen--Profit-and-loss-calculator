@@ -39,7 +39,7 @@ function calculateProfitOrLoss(initial, quantity, current) {
     } else {
         showMessage("Please Enter All the Fields.");
         outputBox.style.border = "solid 5px var(--dark-gray)";
-        outputBox.style.backgroundColor = "white";
+        outputBox.style.backgroundColor = "var(--off-white)";
     }
 }
 
