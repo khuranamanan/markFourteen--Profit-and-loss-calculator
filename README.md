@@ -1,5 +1,5 @@
 # markFourteen Profit and Loss Calculator
-## Descrition
+## Description
 An app that calculates your profit or loss in both absolute and percentage terms.
 
 ## Acknowledgment
