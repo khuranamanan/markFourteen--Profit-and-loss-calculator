@@ -3,7 +3,7 @@
 An app that calculates your profit or loss in both absolute and percentage terms.
 
 ## Acknowledgment
-This is the markFourteen project of [levelZero]{https://neog.camp/level-zero} course from [neog.camp]{neog.camp}. Her's the lesson [link.]{https://neog.camp/guide/lessonTen}
+This is the markFourteen project of [levelZero](https://neog.camp/level-zero) course from [neog.camp](neog.camp). Here's the lesson [link.](https://neog.camp/guide/lessonTen)
 
 ## Problem Statement:
 -Take user's stock price for one stock when he bought it.
@@ -24,8 +24,8 @@ This is the markFourteen project of [levelZero]{https://neog.camp/level-zero} co
 
 ## Contact
 Contact Manan Khurana:
--[LinkedIn]{https://www.linkedin.com/in/manan-khurana-1b135b19b/}
--[Twitter]{https://twitter.com/manankhurrana}
--[Mail]{mailto:khuranamanan12@gmail.com}
+-[LinkedIn](https://www.linkedin.com/in/manan-khurana-1b135b19b/)
+-[Twitter](https://twitter.com/manankhurrana)
+-[Mail](mailto:khuranamanan12@gmail.com)
 
 Don't forget to leave a ⭐ if you found this useful.
